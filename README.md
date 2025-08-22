@@ -1,7 +1,7 @@
 ## Hi there, I am Mohammad 👋
 
-- 🔭 I’m currently working on my Portfolio Website 🧑🏻‍💻 
-- 🌱 I’m recently graduated with an Bachelor Degree in Media Informatics 🎓
+- 🔭 I’m currently working on my Electron Project 🧑🏻‍💻 
+- 🌱 I’m studying and pursuing my Master’s Degree in Media Informatics🎓
 
 
 
