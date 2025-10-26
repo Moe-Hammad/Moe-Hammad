@@ -1,6 +1,6 @@
 ## Hi there, I am Mohammad 👋
 
-- 🔭 I’m currently working on my Electron Project 🧑🏻‍💻 
+- 🔭 I’m currently working on my Management App - Project 🧑🏻‍💻 
 - 🌱 I’m studying and pursuing my Master’s Degree in Media Informatics🎓
 
 
